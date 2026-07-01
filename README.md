@@ -111,6 +111,10 @@ Yes, we have a little commission from that link. Therefore, by using that link, 
 
 - Massive improvements in the formatting of technical terms. Next to that, two new questions have been added, minor typos have been corrected, and questions with incorrect answers have been updated.
 
+**[v1.5.0](../../releases/tag/v1.5.0): July 1, 2026.**
+
+- Fix a whopping 43 wrong answers, apologize for that again; now the test is rock solid! (like all our others). Minor formatting and typo fixes have been incorporated as well.
+
 ## 🙋‍♀️ & 🙋‍♂️ Contribution
 
 We are so thankful for every contribution, which makes sure we can deliver top-notch content. Whenever you find a missing resource, broken link in a [Table of Contents](#table-of-contents), the wrong answer, please submit an [issue](../../issues). Even better would be a [Pull Request (PR)](../../pulls).
